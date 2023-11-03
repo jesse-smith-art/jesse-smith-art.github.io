@@ -12,11 +12,17 @@
 }
 
 body{
-    background-color: rgb(255,200,200)
+    background-color: #bffcff
 }
 
 html{
     font: fantasy;
+    align: center;
+}
+
+h1{
+    font-size: 90px;
+    line-height: 0px;
 }
 
 @font-face {
