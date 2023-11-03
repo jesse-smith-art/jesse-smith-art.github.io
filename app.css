@@ -4,6 +4,7 @@
     font-family: 'Luckiest Guy', fantasy;
     margin: 0px;
     padding: 0px;
+    max-height: 10% !important;
 }
 
 .links{
@@ -14,7 +15,7 @@
     font-size: 30px;
     color: #770000;
     max-width: 55%;
-    max-height: 11%;
+    
     margin-left: 22.5%;
     margin-right: 22.5%;
     border-style: none none solid none;
@@ -30,8 +31,9 @@
 
 .illustration{
     width: 750px;
-    height: 125px;
+    height: 17%;
     max-width: 80%;
+    max-height: 20% !important;
 }
 
 a{
@@ -53,6 +55,7 @@ html{
 h1{
     font-size: 90px;
     line-height: 0px;
+    max-height: inherit !important;
     padding: 0px;
     margin: 0px;
 }
