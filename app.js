@@ -1,12 +1,12 @@
- // Listening to the video element
-let clip = document.querySelector(".vid")
+const videos = document.querySelectorAll('.animation');
 
-/* Adding the event listeners on the video to play/pause the video. */
-clip.addEventListener("mouseover", function (e) {
-    clip.play();
-})
-
-/* Applying the mouse out event to pause the video */
-clip.addEventListener("mouseout", function (e) {
-    clip.pause();
-})
+videos.forEach(video => {
+  video.addEventListener('mouseenter', () => {
+    video.play();
+  });
+  
+  video.addEventListener('mouseleave', () => {
+    video.pause();
+    video.currentTime = 0;
+  });
+});

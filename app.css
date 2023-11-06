@@ -12,9 +12,10 @@
     text-align: center;
     text-decoration-line: none;
     font-family: 'Baby Doll';
-    font-size: 190%;
+    font-size: max(30px, 20%);
     color: #770000;
     max-width: 55%;
+    max-height: 20% !important;
     margin-left: 22.5%;
     margin-right: 22.5%;
     border-style: none none solid none;
@@ -29,6 +30,12 @@
 }
 
 .illustration{
+    width: 750px;
+    height: 17%;
+    max-width: 80%;
+    max-height: 20% !important;
+}
+.animation{
     width: 750px;
     height: 17%;
     max-width: 80%;
@@ -54,9 +61,13 @@ html{
 h1{
     font-size: 90px;
     line-height: 0px;
-    max-height: inherit !important;
+    max-height: 20% !important;
     padding: 0px;
     margin: 0px;
+}
+
+video::-webkit-media-controls {
+    display:none !important;
 }
 
 @font-face {
