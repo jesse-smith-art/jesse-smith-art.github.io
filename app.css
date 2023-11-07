@@ -130,6 +130,15 @@
     padding: .5%;
 }
 
+.thief-design{
+    min-height: 20%;
+    max-height: 30%;
+    min-width: 26%;
+    max-width: 39%;
+    margin: 0;
+    padding: .5%;
+}
+
 .caption{
     font-family: 'Baby Doll';
     font-size: 250%;
