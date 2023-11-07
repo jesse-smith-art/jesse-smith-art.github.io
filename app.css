@@ -29,6 +29,11 @@
     height: 5%;
 }
 
+.icons-mini{
+    width: 2%;
+    height: 2%;
+}
+
 .illustration{
     width: 750px;
     height: 17%;
@@ -42,24 +47,24 @@
     max-height: 20% !important;
 }
 
-.floating-islands{
+.gallery-entry{
     min-height: 10%;
     min-width: 15%;
     max-height: 20%;
     max-width: 29%;
-    margin: 0px;
-    padding: 0px;
+    margin: 0%;
+    padding: .5%;
 }
 
 .caption{
     font-family: 'Baby Doll';
     size: 20%;
+    padding-top: 0;
+    margin-top: 0;
 }
 
 ul{
-    /*display: flex;*/
-    flex-wrap: wrap;
-    justify-content: center;
+    list-style-type: none;
 }
 
 p{
