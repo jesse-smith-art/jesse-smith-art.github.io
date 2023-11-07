@@ -83,9 +83,18 @@
     padding: .5%;
 }
 
+.winter-scene{
+    min-height: 20%;
+    max-height: 30%;
+    min-width: 29%;
+    max-width: 44%;
+    margin: 0;
+    padding: .5%;
+}
+
 .caption{
     font-family: 'Baby Doll';
-    size: 20%;
+    font-size: 250%;
     padding-top: 0;
     margin-top: 0;
 }
