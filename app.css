@@ -121,6 +121,15 @@
     padding: .5%;
 }
 
+.sona-logo{
+    min-height: 20%;
+    max-height: 30%;
+    min-width: 20%;
+    max-width: 30%;
+    margin: 0;
+    padding: .5%;
+}
+
 .caption{
     font-family: 'Baby Doll';
     font-size: 250%;
