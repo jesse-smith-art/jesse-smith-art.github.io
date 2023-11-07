@@ -112,6 +112,15 @@
     padding: .5%
 }
 
+.disturbance-monsterhearts{
+    min-height: 20%;
+    max-height: 30%;
+    min-width: 36%;
+    max-width: 53%;
+    margin: 0;
+    padding: .5%;
+}
+
 .caption{
     font-family: 'Baby Doll';
     font-size: 250%;
