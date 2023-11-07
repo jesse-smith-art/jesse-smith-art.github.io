@@ -99,6 +99,17 @@
     max-height: 30%;
     min-width: 20%;
     max-width: 30%;
+    margin: 0;
+    padding: .5%
+}
+
+.cozytober-monsterhearts{
+    min-height: 20%;
+    max-height: 30%;
+    min-width: 36%;
+    max-width: 53%;
+    margin: 0;
+    padding: .5%
 }
 
 .caption{
