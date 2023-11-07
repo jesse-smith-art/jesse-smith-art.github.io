@@ -10,3 +10,10 @@ videos.forEach(video => {
     video.currentTime = 0;
   });
 });
+
+function copyEmail(){
+    var email = "jessesmithart@icloud.com";
+
+    navigator.clipboard.writeText(email); //Copy email to clipboard
+    alert("Email Copied to Clipboard! \n " + email)
+}

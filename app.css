@@ -18,6 +18,7 @@
     max-height: 20% !important;
     margin-left: 22.5%;
     margin-right: 22.5%;
+    margin-bottom: .5%;
     border-style: none none solid none;
     padding-bottom: 0px;
     padding-top: 0px;
@@ -32,6 +33,7 @@
 .icons-mini{
     width: 2%;
     height: 2%;
+    margin-top: 0%;
 }
 
 .illustration{
