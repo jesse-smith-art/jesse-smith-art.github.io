@@ -139,6 +139,25 @@
     padding: .5%;
 }
 
+.lark-pose{
+    min-height: 20%;
+    max-height: 20%; 
+    min-width: 11%;
+    max-width: 16.6%;
+    margin: 0;
+    padding: .5%;
+
+}
+
+.still-life{
+    min-height: 20%;
+    max-height: 30%;
+    min-width: 24.6%;
+    max-width: 37%;
+    margin: 0;
+    padding: .5%;
+}
+
 .caption{
     font-family: 'Baby Doll';
     font-size: 250%;
