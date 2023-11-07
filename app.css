@@ -158,7 +158,24 @@
     padding: .5%;
 }
 
+.vampire-cowboy-vid{
+    min-height: 20%;
+    max-height: 30%;
+    min-width: 26%;
+    max-width: 39%;
+    margin: 0;
+    padding: .2%;
+}
 
+.vampire-cowboy{
+    min-height: 15%;
+    max-height: 20%;
+    min-width: 18.5%;
+    max-width: 26%;
+    margin: 0;
+    padding-top: 0 !important;
+    padding: .5%;
+}
 
 .caption{
     font-family: 'Baby Doll';
@@ -200,7 +217,7 @@ h1{
     margin: 0px;
 }
 
-video::-webkit-media-controls {
+video.animation::-webkit-media-controls {
     display:none !important;
 }
 
