@@ -47,13 +47,31 @@
     max-height: 20% !important;
 }
 
-.gallery-entry{
-    min-height: 10%;
-    min-width: 15%;
-    max-height: 20%;
-    max-width: 29%;
+.floating-islands{
+    min-height: 20%;
+    min-width: 29%;
+    max-height: 30%;
+    max-width: 44%;
     margin: 0%;
     padding: .5%;
+}
+
+.creature-at-night{
+    min-height: 20%;
+    min-width: 29%;
+    max-height: 30%;
+    max-width: 44%;
+    margin: 0;
+    padding: 0.5%;
+}
+
+.asteri-finale{
+    min-height: 20%;
+    max-height: 30%;
+    min-width: 36%;
+    max-width: 53%;
+    margin: 0;
+    padding: 0.5%;
 }
 
 .caption{
