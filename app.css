@@ -42,6 +42,31 @@
     max-height: 20% !important;
 }
 
+.floating-islands{
+    min-height: 10%;
+    min-width: 15%;
+    max-height: 20%;
+    max-width: 29%;
+    margin: 0px;
+    padding: 0px;
+}
+
+.caption{
+    font-family: 'Baby Doll';
+    size: 20%;
+}
+
+ul{
+    /*display: flex;*/
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+p{
+    font-family: 'Baby Doll';
+    color: #770000;
+}
+
 a{
     color: inherit;
     text-decoration-line: inherit;
