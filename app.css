@@ -94,6 +94,13 @@
     padding: .5%;
 }
 
+.div-lark{
+    min-height: 20%;
+    max-height: 30%;
+    min-width: 20%;
+    max-width: 30%;
+}
+
 .caption{
     font-family: 'Baby Doll';
     font-size: 250%;
