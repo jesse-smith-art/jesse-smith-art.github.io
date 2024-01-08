@@ -1,5 +1,5 @@
 .header {
-    color: #770000;
+    color: #dd8285;
     align-self: center;
     font-family: 'Luckiest Guy', fantasy;
     margin: 0px;
@@ -13,7 +13,7 @@
     text-decoration-line: none;
     font-family: 'Baby Doll';
     font-size: max(30px, 20%);
-    color: #770000;
+    color: #dd8285;
     max-width: 55%;
     max-height: 20% !important;
     margin-left: 22.5%;
@@ -177,6 +177,15 @@
     padding: .5%;
 }
 
+.junior-anim{
+    min-height: 20%;
+    max-height: 30%;
+    min-width: 35.6%;
+    max-width: 53.3%;
+    margin: 0;
+    padding: .5%;
+}
+
 .sophomore-anim{
     min-height: 20%;
     max-height: 30%;
@@ -208,7 +217,7 @@ ul{
 
 p{
     font-family: 'Baby Doll';
-    color: #770000;
+    color: #dd8285;
 }
 
 a{
@@ -219,7 +228,7 @@ a{
 }
 
 body{
-    background-color: #bffcff
+    background-color: #ffedcc
 }
 
 html{
