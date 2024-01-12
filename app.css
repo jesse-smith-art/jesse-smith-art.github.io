@@ -173,6 +173,15 @@
     padding: .5%;
 }
 
+.animation-reel{
+    min-height: 30%;
+    max-height: 45%;
+    min-width: 39%;
+    max-width: 59%;
+    margin: 0;
+    padding: .2%;
+}
+
 .vampire-cowboy-vid{
     min-height: 20%;
     max-height: 30%;
